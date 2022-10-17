@@ -1,0 +1,47 @@
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.exe.config
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.exe
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.pdb
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.xml
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\itextsharp.dll
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\itextsharp.xml
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022_DocsFab.Form1.resources
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022_DocsFab.Resources.resources
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.GenerateResource.cache
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.CoreCompileInputs.cache
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.CopyComplete
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.exe
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.xml
+C:\Users\soi\source\repos\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.pdb
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.exe.config
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.exe
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.pdb
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.xml
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\BouncyCastle.Crypto.dll
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\itextsharp.dll
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\itextsharp.xml
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022_DocsFab.Form1.resources
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022_DocsFab.Resources.resources
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.GenerateResource.cache
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.CoreCompileInputs.cache
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.CopyComplete
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.exe
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.xml
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.pdb
+M:\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbprojAssemblyReference.cache
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.exe.config
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.exe
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.pdb
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\Cibox2022 DocsFab.xml
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\BouncyCastle.Crypto.dll
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\itextsharp.dll
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\bin\Debug\itextsharp.xml
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.ResolveComReference.cache
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022_DocsFab.Form1.resources
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022_DocsFab.Resources.resources
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.GenerateResource.cache
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.CoreCompileInputs.cache
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.vbproj.CopyComplete
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.exe
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.xml
+\\srvdc\Bureau_Etudes\instal_BE\Cibox2022 DocsFab\Cibox2022 DocsFab\obj\Debug\Cibox2022 DocsFab.pdb
